@@ -1,0 +1,63 @@
+* {
+    margin-top: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+
+    color: darkmagenta;
+}
+
+.Login {
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    justify-content: center;
+    background-color: darkmagenta;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+
+.username {
+    margin-top: 50px;
+    width: 90%;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px 10px;
+    color: blue;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.userpassword {
+    margin-top: 30px;
+    width: 90%;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px 10px;
+    color: blue;
+    font-size: large ;
+    font-weight: bold;
+}
+
+.btn1 {
+    margin-top: 40px;
+
+    font-size: 20px;
+    padding: 5px 5px;
+    border-radius: 20px;
+    width: 100px;
+    font-weight: bolder;
+    background-color: mediumslateblue;
+}
+
+.btn2 { 
+    display: grid;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 5px 5px;
+    border-radius: 10px;
+    width: 100px;
+}
